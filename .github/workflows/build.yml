@@ -16,4 +16,4 @@ env:
 
 jobs:
   build:
-    uses: Ysn4Irix/.github/.github/workflows/app-build.yml@master
+    uses: ysn4irix/.github/.github/workflows/app-build.yml@master
