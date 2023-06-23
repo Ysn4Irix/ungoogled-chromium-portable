@@ -6,5 +6,5 @@
 package tools
 
 import (
-	_ "github.com/portapps/portapps/v3/tools"
+	_ "github.com/ysn4irix/portapps/v3/tools"
 )
